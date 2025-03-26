@@ -18,9 +18,9 @@ Este projeto faz parte do curso Trilha Java Básico da DIO. O desafio consiste e
 
 ### Entrada:
 
-Digite o primeiro parâmetro:
+Digite o primeiro número:
 5
-Digite o segundo parâmetro:
+Digite o segundo número:
 10
 
 ### Saída:
